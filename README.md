@@ -1,6 +1,9 @@
 # gitdemo
 This is repository for demo git.
 
+
+gitand github
+
 git add -A 
 git commit -m "" 
 [master 5a88a31]
@@ -16,3 +19,6 @@ hello everyone
 
 *hello
 *[link] (http://www.naver.com)
+
+
+git push
